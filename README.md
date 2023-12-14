@@ -10,7 +10,8 @@
 This article covers various javascript array methods. Below is a summary of the key points from what i have read and understood on Array methods
 
 ## 1 . ARRAY METHODS
-**Array Length:**Think of an array like a list. The length tells you how many things are in the list.
+# Array Length:
+Think of an array like a list. The length tells you how many things are in the list.
 # Array toString():
 This turns the list into a sentence, seperated by commas Instead of saying "apple", "banana", "orange",it makes it look like apple, banana ,orange.
 # Popping and Pushing:
