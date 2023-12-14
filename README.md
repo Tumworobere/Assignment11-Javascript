@@ -10,10 +10,9 @@
 This article covers various javascript array methods. Below is a summary of the key points from what i have read and understood on Array methods
 
 ## 1 . ARRAY METHODS
-# Array Length:
-Think of an array like a list. The length tells you how many things are in the list.
+**Array Length:**Think of an array like a list. The length tells you how many things are in the list.
 # Array toString():
-This turns the list into a sentence, seperated by commas Instead of saying "apple", banana", orange",it makes it look like apple, banana ,orange.
+This turns the list into a sentence, seperated by commas Instead of saying "apple", "banana", "orange",it makes it look like apple, banana ,orange.
 # Popping and Pushing:
 Popping is like taking the last thing out of a bag while Pushing is putting a new thing into the bag. the pop() method removes the last item on the list while the  push () method adds a new item on the list
 # Shifting Elements:
@@ -31,4 +30,5 @@ Splicing is like adding or removing things from the middle of your list.
 Slicing is taking a part off your list and making a new list with just that part.
 # Sorting Arrays:
 Putting your list in order, like arranging books on a shelf.
+
 
