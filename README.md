@@ -6,7 +6,7 @@
 - https://www.javascripthelp.org/learn/basics/control-flow-statements/
 - https://javascript.info/function-basics
 
-1 - https://www.w3schools.com/js/js_array_methods.asp
+## 1 . https://www.w3schools.com/js/js_array_methods.asp
 This article covers various javascript array methods. Below is a summary of the key points from what i have read and understood on Array methods
 
 ## 1 . ARRAY METHODS
@@ -33,3 +33,35 @@ Slicing is taking a part off your list and making a new list with just that part
 Putting your list in order, like arranging books on a shelf.
 
 
+## 2 . https://www.w3schools.com/js/js_array_methods.asp
+
+## Javascript functions.
+# What is a Function?
+*  A JavaScript function is like a set of instructions designed to do a specific task.
+* It runs when something triggers it (calls it).
+# Function Structure:
+* Functions start with the keyword function, followed by a name and parentheses.
+* The parentheses can contain parameters (input values) separated by commas.
+* The actual code to be executed is enclosed in curly brackets.
+# Function Parameters and Arguments:
+* Parameters are the names listed in the function definition.
+* Arguments are the values passed into the function when it's called.
+* Inside the function, arguments behave like local variables.
+# Function Invocation:
+* Functions can be triggered in various ways, such as when a button is clicked or when called from JavaScript code.
+# Function Return:
+* When a function encounters a return statement, it stops executing, and the result is sent back to the caller.
+* Functions often calculate and return values.
+# Why Use Functions?
+* Functions allow you to write reusable code that can be used multiple times.
+* You can use the same code with different inputs to get different results.
+# The () Operator:
+* The parentheses () are used to invoke (call) a function and pass arguments.
+# Functions with Incorrect Parameters:
+* Providing incorrect parameters might lead to incorrect results.
+# Functions Used as Variable Values:
+* Functions can be used directly in calculations or assignments, eliminating the need for a separate variable.
+# Local Variables:
+* Variables declared within a function are local to that function.
+* They can only be accessed within the function.
+* Local variables are created when the function starts and deleted when it ends.
